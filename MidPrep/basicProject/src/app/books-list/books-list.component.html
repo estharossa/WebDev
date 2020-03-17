@@ -1,0 +1,12 @@
+<h1>Daniyar Amangeldi, ID: 18BD141087</h1>
+<h1>Library of Books</h1>
+<div class="wrapper">
+  <div *ngFor="let book of books; index as bookId" class="book_container">
+    <h3>
+      <a [title]="book.title + ' details'" [routerLink]="['/books/' + bookId]">
+        {{ book.title }}
+      </a>
+    </h3>
+  </div>
+</div>
+

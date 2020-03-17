@@ -1,0 +1,14 @@
+button{
+  display: block;
+  margin-bottom: 10px;
+}
+
+input
+{
+  display: block;
+  width: 100%;
+}
+
+is_favourite{
+  display: inline-block;
+}

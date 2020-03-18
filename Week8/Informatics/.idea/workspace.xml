@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c9ee251-c5ae-4018-9ad3-a5195253d96b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1/1E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/2E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3J.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3K.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3M.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week4/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week4/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Lab8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/1A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/1B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/1C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/1D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/1E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3H.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3J.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3K.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3M.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../../my-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZFudf9yEqQGcdp6CBPMmzKnBWO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Virtual Environments/venv/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniyar\Desktop\4 semester\WebDev\Lab8\1" />
+      <recent name="C:\Users\Daniyar\Desktop\4 semester\WebDev\Lab8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1C">
+    <configuration name="1A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Daniyar\Desktop\4 semester\WebDev\Lab8\1\1A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Daniyar\Desktop\4 semester\WebDev\Lab8\1\1C.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1C" />
+        <item itemvalue="Python.1A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c9ee251-c5ae-4018-9ad3-a5195253d96b" name="Default Changelist" comment="" />
+      <created>1584447251680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584447251680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.idea" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="83" key="FileChooserDialogImpl" timestamp="1584521406620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584521406620" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1584468282845">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584468282845" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1584468282844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584468282844" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1584468282844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584468282844" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1584468282845">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584468282845" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584521414527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584521414527" />
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1584521195622">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584521195622" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584460357716">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584460357716" />
+  </component>
+</project>
